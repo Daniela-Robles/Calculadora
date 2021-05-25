@@ -1,6 +1,6 @@
 #include <iostream> 
 #include <stdlib.h>   
-//@
+
 using namespace std;
 
 void suma(float x, float y);
